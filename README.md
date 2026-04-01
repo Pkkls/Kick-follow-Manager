@@ -16,7 +16,7 @@ Export and re-follow all your Kick.com channels on a new account.
 pip install undetected-chromedriver
 python kick_selenium.py
 ```
-Do not use the Google SSO login , it will not work. Login on standard Kick page
+Login via Google SSO or standard
 ## 📋 Requirements
 - Python 3.8+
 - Google Chrome installed
