@@ -19,4 +19,3 @@ Login via Google SSO or standard
 ## 📋 Requirements
 - Python 3.8+
 - Google Chrome installed
-```
