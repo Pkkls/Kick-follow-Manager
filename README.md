@@ -67,7 +67,7 @@ python kick_selenium.py
 3. Copy everything (`Ctrl+A` → `Ctrl+C`)
 4. Paste into `kick_follows.txt`
 
-> No cleaning needed — the script handles everything automatically
+✅ No need to clean the file — the script handles duplicates, LIVE suffixes, headers and blank lines automatically.
 
 ### Step 2: Run and follow
 
